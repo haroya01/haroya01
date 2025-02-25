@@ -5,4 +5,4 @@ public class Hello {
   }
 }
 ```
-[Haroya01의 블로그](https://velog.io/@haroya01/posts)
+[Haroya01의 블로그](https://qiita.com/haroya01)
