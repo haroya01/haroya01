@@ -5,4 +5,3 @@ public class Hello {
   }
 }
 ```
-[Haroya01의 블로그](https://qiita.com/haroya01)
